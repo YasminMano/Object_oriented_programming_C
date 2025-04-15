@@ -36,3 +36,18 @@ namespace Aula09_Exercicio01
         }
     }
 }
+
+// =========================================
+// Exercício 1 - Programação Orientada a Objetos
+// =========================================
+//
+// • Crie uma classe Animal que tenha o método EmitirSom;
+// • Crie as classes Cachorro, Gato, Peixe e Pássaro que herdam de Animal.
+//   Faça com que essas classes sobrescrevam o método EmitirSom,
+//   imprimindo no console os respectivos sons dos animais;
+// • Crie uma instância para cada um destes animais,
+//   e guarde em uma lista de Animal.
+//   Em seguida, percorra esta lista, chamando o método EmitirSom;
+//
+// =========================================
+
