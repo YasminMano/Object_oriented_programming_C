@@ -1,0 +1,15 @@
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\bin\Debug\net8.0\Aula09_Exercicio01.exe
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\bin\Debug\net8.0\Aula09_Exercicio01.deps.json
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\bin\Debug\net8.0\Aula09_Exercicio01.runtimeconfig.json
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\bin\Debug\net8.0\Aula09_Exercicio01.dll
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\bin\Debug\net8.0\Aula09_Exercicio01.pdb
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\obj\Debug\net8.0\Aula09_Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\obj\Debug\net8.0\Aula09_Exercicio01.AssemblyInfoInputs.cache
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\obj\Debug\net8.0\Aula09_Exercicio01.AssemblyInfo.cs
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\obj\Debug\net8.0\Aula09_Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\obj\Debug\net8.0\Aula09_Exercicio01.sourcelink.json
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\obj\Debug\net8.0\Aula09_Exercicio01.dll
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\obj\Debug\net8.0\refint\Aula09_Exercicio01.dll
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\obj\Debug\net8.0\Aula09_Exercicio01.pdb
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\obj\Debug\net8.0\Aula09_Exercicio01.genruntimeconfig.cache
+C:\Users\yasmin.afmano\source\repos\YasminMano\Object_oriented_programming_C\Aula09_Exercicio01\obj\Debug\net8.0\ref\Aula09_Exercicio01.dll
